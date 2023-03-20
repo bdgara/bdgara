@@ -1,7 +1,6 @@
 - 👋 Hi, I’m brady. I'm a drug hunter.
 - 👀 I’m interested in discovery and design via physics-based protein simulations
-- 🌱 I’m currently learning how to navigate *this space*
-- 💞️ I’m looking to collaborate on applications in cryptic and induced fit pockets, allosteric networks, intrinsically disordered proteins, accelerated MD, apo-pharmacophore models
+- 🌱 I’m collaborating in cryptic and induced fit pockets, allosteric networks, intrinsically disordered proteins, accelerated MD, apo-pharmacophore models
 - 📫 How to reach me ... brady@redesignscience.com
 
 <!---
